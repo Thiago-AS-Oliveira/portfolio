@@ -13,7 +13,7 @@ const About = () => {
   return (
     <Container>
       <ImageContainer>
-        <Image src="/images/foto.png" alt="minha foto" />
+        <Image src="./images/foto.png" alt="minha foto" />
       </ImageContainer>
 
       <InfoContainer>

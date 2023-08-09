@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <HeaderContainer>
       <GifContainer>
-        <Gif src="/images/animacao.gif" alt="Gif" />
+        <Gif src="./images/animacao.gif" alt="Gif" />
       </GifContainer>
 
       <TitleContainer>
